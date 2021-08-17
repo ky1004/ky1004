@@ -34,6 +34,6 @@ SketchUp, ClipStudio,
     <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
   </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ky1004)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ky1004=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
