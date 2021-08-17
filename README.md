@@ -21,8 +21,7 @@ Python,Java,C++,C#,Unity,OracleDB
   <img src="https://img.shields.io/badge/C♯-8041D9?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-  </p> 
-  <br/>
+  </p>
 <!--  
 SketchUp, ClipStudio, 
 -->
@@ -33,7 +32,8 @@ SketchUp, ClipStudio,
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
   </p>
-
+  <br/>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ky1004)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
