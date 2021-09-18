@@ -4,7 +4,7 @@
   <sup>Others - Character design, Writing, Video Editing</sup>
   <br/>
   <br/>
-  <h4>🎫 Studied Stack </h4>
+  <h4>🎫 Study Stack (learning experiences) </h4>
 <!--
 HTML5,CSS3,JavaScript,
 Python,Java,C++,C#,Unity,OracleDB
