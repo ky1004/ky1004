@@ -1,8 +1,7 @@
 
 <div align="center">
-  <h5>Major - Computer Science & Engineering</h5>
-  <sup>Others - Character design, Writing, Video Editing</sup>
   <br/>
+  <h4>Major : Computer Science & Engineering</h5>
   <br/>
   <h4>🎫 Study Stack (learning experiences) </h4>
 <!--
