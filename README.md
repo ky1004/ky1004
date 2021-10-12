@@ -1,6 +1,5 @@
 
 <div align="center">
-  <br/>
   <h4>Major : Computer Science & Engineering</h5>
   <br/>
   <h4>🎫 Study Stack (learning experiences) </h4>
