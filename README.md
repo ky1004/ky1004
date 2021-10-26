@@ -1,8 +1,13 @@
 
 <div align="center">
-  <h4>Major : Computer Science & Engineering</h5>
+  <h4>🖥 Major : Computer Science & Engineering</h5>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky1004&layout=compact)](https://github.com/ky1004/github-readme-stats)
   <br/>
+  <br/>
+  
   <h4>🎫 Study Stack (learning experiences) </h4>
+ 
 <!--
 HTML5,CSS3,JavaScript,
 Python,Java,C++,C#,Unity,OracleDB
@@ -23,6 +28,7 @@ Python,Java,C++,C#,Unity,OracleDB
 <!--  
 SketchUp, ClipStudio, PhotoShop, Premiere Pro, After Effects
 -->
+  <br>
   <h4>🎬 Other things </h4>  
   <p>
     <img src="https://img.shields.io/badge/SketchUp-FF0000?style=flat-square&logo=SketchUp&logoColor=white"/>
