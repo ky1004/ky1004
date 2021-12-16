@@ -21,6 +21,7 @@ Python,Java,C++,C#,Unity,OracleDB
   <img src="https://img.shields.io/badge/Java-FF9A00?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-83B81A?style=flat-square&logo=&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C♯-8041D9?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/msSQL-4169E1?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
