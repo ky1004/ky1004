@@ -1,11 +1,5 @@
 
 <div align="center">
-  <h4>🖥 Major : Computer Science & Engineering</h5>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky1004&layout=compact)](https://github.com/ky1004/github-readme-stats)
-  <br/>
-  <br/>
-  
   <h4>🎫 Study Stack (learning experiences) </h4>
  
 <!--
