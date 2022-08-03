@@ -22,6 +22,7 @@
   <p>
     <img src="https://img.shields.io/badge/SketchUp-FF0000?style=flat-square&logo=SketchUp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Clip Studio-9E9E9E"/>
+    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
     <img src="https://img.shields.io/badge/Aseprite-000000?style=flat-square&logo=Aseprite&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
